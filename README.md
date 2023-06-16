@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **freelance projects.**
 
-- 🌱 I’m currently learning **JS, React, Swift and design principles.**
+- 🌱 I’m currently learning **Swift and Graphic Design Principles.**
 
-- 👯 I’m looking to collaborate on **frontend development**
+- 👯 I’m looking to collaborate on **iOS development**
 
-- 💬 Ask me about **js, react and swift**
+- 💬 Ask me about **swift and swiftui**
 
 - 📫 How to reach me **syluomer@gmail.com**
 
