@@ -2,7 +2,7 @@
 
 ![Master Head](https://i.hizliresim.com/p6tdqg1.png)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">A passionate Junior frontend developer and design enthusiast</h3>
+<h3 align="center">A passionate Junior iOS developer and design enthusiast</h3>
 
 - 🔭 I’m currently working on **freelance projects.**
 
