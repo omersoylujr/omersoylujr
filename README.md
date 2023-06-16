@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Master Head](https://i.hizliresim.com/p6tdqg1.png)
+![Master Head](https://i.hizliresim.com/hkmt334.png)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate Junior iOS developer and design enthusiast</h3>
 
